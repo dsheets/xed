@@ -1,0 +1,11 @@
+<patch:diff>
+  <patch:patch>
+    <root><child name="two"/><child/><patch:replace>
+        <patch:original><child name="three"/></patch:original>
+        <patch:new><child name="two"/></patch:new>
+      </patch:replace></root>
+  </patch:patch>
+  <patch:patch>
+    <root><patch:delete><child name="two"/></patch:delete><child/><child name="three"/></root>
+  </patch:patch>
+</patch:diff>

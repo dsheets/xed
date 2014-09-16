@@ -1,0 +1,8 @@
+<patch:diff>
+  <patch:patch>
+    <root><patch:replace>
+        <patch:original>some cdata</patch:original>
+        <patch:new>other cdata</patch:new>
+      </patch:replace></root>
+  </patch:patch>
+</patch:diff>

@@ -1,0 +1,5 @@
+<patch:diff>
+  <patch:patch>
+    <root><patch:delete><child/></patch:delete></root>
+  </patch:patch>
+</patch:diff>
